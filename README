@@ -1,0 +1,20 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2964
+
+This colorscheme is placed in the Public Domain
+Author: Joseph Wecker
+
+Put this together for those days when I need a light background in gvim instead
+of a dark (in which case I usually use zenburn).  This syntax has the following
+attributes:
+
+- Soft and easy on the eyes, but enough contrast
+- No italics or bold text because I sometimes get rendering issues
+- Nice colors - evenly balanced
+- Colors for all main syntax items! (pet-peeve- otherwise great colorschemes
+  that combine syntactic elements into the same color)
+
+I used proton.vim as a starting template (hence the name)- but I don't think
+there's much of proton left in neutron.
+
+Development at http://github.com/josephwecker/neutron.vim
+
